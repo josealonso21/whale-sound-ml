@@ -1,0 +1,25 @@
+Training RNN...
+Precision: 0.9230136986301369
+Recall: 0.9498167465463773
+F1-Score: 0.932234264276782
+Confusion Matrix:
+[[3170 281]
+[178 3369]]
+
+Training SVM...
+Validation Accuracy: 0.8818233781080309
+Precision: 0.8506962351727695
+Recall: 0.9300817592331547
+F1-Score: 0.8886195286195286
+Confusion Matrix:
+[[2872  579]
+[ 248 3299]]
+
+Training CNN...
+Validation Accuracy: 0.8220919966697693
+Precision: 0.7934727180010199
+Recall: 0.877361150267832
+F1-Score: 0.8333110188780292
+Confusion Matrix:
+ [[2641  810]
+ [ 435 3112]]
